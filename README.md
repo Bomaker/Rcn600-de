@@ -5,7 +5,7 @@
 [![arduino-library-badge](https://www.ardu-badge.com/badge/Rcn600.svg)](https://www.ardu-badge.com/Rcn600)
 [![License](https://img.shields.io/github/license/TheFidax/Rcn600)](#)
 
-See English file here: [Readme-en.de](https://github.com/TheFidax/Rcn600/tree/master/Readme-en.de)
+See English file here: [Readme-en.de](https://github.com/TheFidax/Rcn600-de/tree/master/Readme-en.de)
 
 # Inhalt
 * [Einführung Rcn600 SUSI](#Rcn600-SUSI)
