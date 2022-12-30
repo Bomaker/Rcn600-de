@@ -5,15 +5,15 @@
 [![arduino-library-badge](https://www.ardu-badge.com/badge/Rcn600.svg)](https://www.ardu-badge.com/Rcn600)
 [![License](https://img.shields.io/github/license/TheFidax/Rcn600)](#)
 
-# Indice
+# Inhalt
 * [Einführung Rcn600 SUSI](#Rcn600-SUSI)
-* [Demonstrationsvideo](#Video-Presentazione)
-* [Bibliotheks-API](#API-Libreria)
-* [Anwendungsbeispiele](#Esempi-di-Utilizzo)
+* [Demonstrationsvideo](#Demonstrationsvideo)
+* [Bibliotheks-API](#Bibliotheks-API)
+* [Anwendungsbeispiele](#Anwendungsbeispiele)
 
 ------------
 
-# Rcn600 SUSI
+# Rcn600-SUSI
 Mit dieser Bibliothek können Sie ein Arduino-Board (oder einen Mikrocontroller über Arduino IDE) als Slave für die SUSI-Schnittstelle verwenden.
 Bibliothek getestet auf Arduino UNO, Arduino NANO (ATmega328P) und ATmega128 (MegaCore).</br>
 
