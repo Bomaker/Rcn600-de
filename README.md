@@ -6,6 +6,7 @@
 [![License](https://img.shields.io/github/license/TheFidax/Rcn600)](#)
 
 See English file here: [README-en.de](https://github.com/Bomaker/Rcn600-de/tree/master/Readme-en.de)
+**Work in Progress!! Not yet tested. Thanks to TheFidax for the cool software!**
 
 # Inhalt
 * [Einführung Rcn600 SUSI](#Rcn600-SUSI)
